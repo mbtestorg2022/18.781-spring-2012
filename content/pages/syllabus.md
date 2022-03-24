@@ -50,7 +50,7 @@ It has a very different style from the usual theorem-proof-exercise setup of usu
 
 Assumes more algebra background, but goes quite far, taking the reader to some of the frontiers of algebraic number theory.
 
-Another source is Franz Lemmermeyer's lecture notes online (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.fen.bilkent.edu.tr/~franz/nth06/nth.pdf)). These assume a bit more background than Niven, Zuckerman and Montgomery, but perhaps not as much as Ireland and Rosen.
+Another source is Franz Lemmermeyer's lecture notes online ([PDF](http://www.fen.bilkent.edu.tr/~franz/nth06/nth.pdf)). These assume a bit more background than Niven, Zuckerman and Montgomery, but perhaps not as much as Ireland and Rosen.
 
 Homework
 --------
